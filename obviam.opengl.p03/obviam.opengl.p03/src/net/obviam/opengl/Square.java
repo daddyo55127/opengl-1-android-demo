@@ -1,5 +1,5 @@
 /**
- * 
+ *  square class- this probably does not work
  */
 package net.obviam.opengl;
 
